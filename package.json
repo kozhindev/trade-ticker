@@ -1,0 +1,21 @@
+{
+  "name": "trade-ticker",
+  "version": "1.0.0",
+  "description": "Crypto trades client for realtime fetch ticker info",
+  "author": "Vladimir Kozhin <hello@kozhindev.com>",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kozhindev/trade-ticker"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/kozhindev/trade-ticker",
+  "bugs": {
+    "url": "https://github.com/kozhindev/trade-ticker/issues"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.11",
+    "websocket": "^1.0.26"
+  }
+}
